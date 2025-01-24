@@ -45,6 +45,9 @@ python sentiment_analysis.py
 
 This Sentiment Analysis Project helps businesses understand customer feedback and make data-driven improvements for better customer satisfaction! 
 
+## License
+* MIT license
+
 ## Screenshots of output:
 
 ![Screenshot 2025-01-24 174233](https://github.com/user-attachments/assets/6aeb0afb-6db2-44a6-973f-40b67146545c)
